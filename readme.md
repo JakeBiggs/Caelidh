@@ -1,4 +1,7 @@
-==Ceilidh v0.1==
+## ==Ceilidh v0.1==
+
+The itch.io page for this game can be found here:
+https://unitygroup16.itch.io/ceilidh
 
 This repository has been pre-configured with a .gitignore and .gitattributes file specific to Unity projects using git-lfs. 
 
@@ -13,19 +16,19 @@ For full details on this project's settings, please read the Changelog.md
 
 Ceilidh is a roguelike dungeon crawler game based on Jack the giant slayer from Celtic mythology. Players will take on the role of Jack as they navigate through procedurally generated dungeons, fighting off monsters and collecting treasure along with a range of cards to expand your abilities!.
 
-Features
+# Features
 	Procedurally generated dungeons for endless replayability
 	A variety of giant monsters inspired by Celtic folklore
 	Permadeath gameplay for a challenging and immersive experience
 	A character progression system that allows players to unlock new abilities and equipment
-Requirements
+# Requirements
 	Unity version 2017.4 or higher
-Installation
+# Installation
 	Download and install Unity version 2017.4 or higher.
 	Download the Ceilidh project files from the releases page.
 	Open the Ceilidh project in Unity.
 	Click on the "Play" button to start the game.
-Controls
+# Controls
 	WASD - Movement
 	Left Click - Attack
 	Q/E - Card Abilities
